@@ -11,7 +11,7 @@ GILDAS
 # Model Building
 
 Running the script in gildas, prompts the user to select the velocity range within which the emission is detected. Once this is done, the code fits a gaussian to the spectrum. 
-ngc197*.greg is the file with one gaussian fit. 
+ngc197*.greg is the file with 2 gaussian fit. 
 
 
 # Note
