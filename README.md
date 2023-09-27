@@ -20,3 +20,4 @@ ngc197*.greg is the file with one gaussian fit.
 
 [ngc1977_cluster0.pdf](https://github.com/maitraiyeetiwari/Gaussian-fit-spectrum/files/12737573/ngc1977_cluster0.pdf)
 
+
